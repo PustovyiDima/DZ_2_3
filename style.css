@@ -1,0 +1,26 @@
+body
+{
+	background: #D4A2A2;
+	font-family: sans-serif;
+}
+.zero
+{
+	text-decoration: underline;
+}
+.one
+{
+	background-color: red;
+	height: 50px;
+	width: 100px;
+}
+.two
+{
+	background-color: #F9952A;
+	height: 50px;
+	width: 150px;
+}
+.three
+{
+	background-color: blue;
+	height: 50px;
+	width: 200px;
